@@ -1,6 +1,11 @@
 body{
-  margin-top: 7rem;
   background: black;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
 }
 
 .battery-top{
